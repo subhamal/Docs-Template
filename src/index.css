@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Mochiy Pop P One";
+}
+::selection {
+  color: rgba(224, 178, 42, 0.925);
+}
